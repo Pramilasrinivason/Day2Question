@@ -1,0 +1,7 @@
+D:\Git\Assignment\primeNumber\primeNumber\bin\Debug\primeNumber.exe.config
+D:\Git\Assignment\primeNumber\primeNumber\bin\Debug\primeNumber.exe
+D:\Git\Assignment\primeNumber\primeNumber\bin\Debug\primeNumber.pdb
+D:\Git\Assignment\primeNumber\primeNumber\obj\Debug\primeNumber.csprojAssemblyReference.cache
+D:\Git\Assignment\primeNumber\primeNumber\obj\Debug\primeNumber.csproj.CoreCompileInputs.cache
+D:\Git\Assignment\primeNumber\primeNumber\obj\Debug\primeNumber.exe
+D:\Git\Assignment\primeNumber\primeNumber\obj\Debug\primeNumber.pdb
