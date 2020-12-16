@@ -35,6 +35,7 @@ namespace primeNumber
                     Console.Write("{0} ", num);
             }
             Console.Write("\n");
+            Console.WriteLine("Pragati");
         }
     }
 }
